@@ -1,4 +1,4 @@
-package src;
+package org.example.auto_test;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
