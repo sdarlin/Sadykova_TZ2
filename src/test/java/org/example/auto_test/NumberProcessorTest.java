@@ -72,9 +72,9 @@ public class NumberProcessorTest {
             frame.setVisible(true);
         });
 
-        // Ждем 60 секунд перед завершением теста, чтобы пользователь мог увидеть график
+        // Ждем 60 секунд перед завершением теста, чтобы пользователь мог увидеть график (время изменено для CI)
         try {
-            Thread.sleep(60000);
+            Thread.sleep(1);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
