@@ -1,6 +1,7 @@
 <h1 align="center"> Техническая документация </h1>
     <hr>
 
+
 ![auto_tests](https://github.com/sdarlin/Sadykova_TZ2/actions/workflows/test.yml/badge.svg)
 ![manual_tests](https://github.com/sdarlin/Sadykova_TZ2/actions/workflows/tests_by_hand.yml/badge.svg)
  <hr>
